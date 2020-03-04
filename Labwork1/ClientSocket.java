@@ -16,7 +16,7 @@ class ClientSocket{
   messages = userInput.readLine();
   outToServer.writeBytes(messages + '\n'); //gửi đi
    
-  messageReceipt = inFromServer.readLine(); //nhận về từ server (text bị chuyển hết thành upercase ở server để dễ phân biệt )
+  messageReceipt = inFromServer.readLine(); //nhận về từ server (text bị chuyển hết thành uppercase ở server để dễ phân biệt )
   System.out.println("FROM SERVER: " + messageReceipt);
    
   clientSocket.close();
