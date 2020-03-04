@@ -11,6 +11,8 @@ USTH ICT 2020 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
-
+* Vũ Đức Hiếu (BI9-102)
+* Đặng Yến Nhi (BI9-180)
+* Trần Trường Giang (BI9-090)
+* Đào Minh Vũ (BI9-237)
+* Trần Đại Dương (BI9-079)
